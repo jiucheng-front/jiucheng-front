@@ -7,4 +7,5 @@
 - ⚡ Fun fact: Traveling...
 
 #### oops
-[![trophy](https://github-profile-trophy.vercel.app/?username=jiucheng-front)](https://github.com/ryo-ma/github-profile-trophy)
+https://github-profile-trophy.vercel.app/?username=ryo-ma&rank=S&theme=dracula
+[![trophy](https://github-profile-trophy.vercel.app/?username=jiucheng-front&rank=S,AA&theme=dracula&column=7)](https://github.com/ryo-ma/github-profile-trophy)
